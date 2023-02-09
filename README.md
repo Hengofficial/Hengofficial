@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/henggofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="henggofficial" height="30" width="40" /></a>
 <a href="https://fb.com/hakkimhengg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hakkimhengg" height="30" width="40" /></a>
-<a href="https://instagram.com/__heng__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_heng_" height="30" width="40" /></a>
+<a href="https://instagram.com/__henqqq__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_heng_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
